@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jung In Woong</h1>
 <h3 align="center">I'm korean</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=messengerwoong" alt="messengerwoong" /></a> </p>
-
-- 🔭 I’m currently working on **Job Seeking**
+- 🔭 I’m currently Studying in **Upstage AI BootCamp**
 
 - 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **Upstage AI BootCamp**
 
 - 📫 How to reach me **neuronist2020@gmail.com**
 
